@@ -1,0 +1,112 @@
+body {
+	margin: 0;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+h1 {
+	margin: 0;
+}
+
+p {
+	margin: 0;
+}
+
+a { 
+	margin: 0;
+	text-decoration: none;
+	color: black;
+}
+
+.todo {
+	width: 500px;
+	height: auto;
+	margin: auto;	
+}
+
+
+.fotodeperfil {
+	position: relative;
+	top: 20px;
+	text-align: center;
+}
+
+.cont {
+	width: 200px;
+	height: auto;
+}
+
+.titulo {
+	text-align: center;
+	margin-top: 35px;
+	font-size: 26px;
+	margin-top: 20px;
+	color:khaki;
+}
+
+.nombre {
+	text-align: center;
+	margin-top: 8px;
+	margin-bottom: 50px;
+	font-size: 18px;
+	color:black;
+
+}
+
+.biografia {
+
+	width: 360px;
+	height: auto;
+	margin: auto;
+
+}
+
+.uno {
+
+	
+	display: inline-block;
+	width: 150px;
+
+}
+
+.dos {
+	
+	display: inline-block;
+	width: 150px;
+	margin-left: 50px;
+}
+
+.uno a {
+	color: 	palevioletred;
+}
+
+.uno a:hover {
+	background-color: lightpink;
+	color: black;
+}
+
+.links {
+	margin-top: 100px;
+	margin-left: 150px;	
+	margin-bottom: 25px;
+}
+
+.links a {
+	color: black;
+	background-color: khaki;
+}
+
+.links a:hover {
+	background-color: lightpink;
+	color: black;
+}
+
+.twitter {
+	display: inline-block;
+}
+
+.instagram {
+	display: inline-block;
+	margin-left: 50px;
+}
+
+
